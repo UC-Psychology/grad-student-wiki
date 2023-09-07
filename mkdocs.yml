@@ -23,6 +23,7 @@ nav:
     - Get Started Contributing: contributing.md
   - How To's: 
     - howtos/index.md
+    - git: howtos/git.md
   - Glossary: glossary.md
   - Reviews: 
     - reviews/index.md
