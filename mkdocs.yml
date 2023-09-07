@@ -23,10 +23,10 @@ nav:
     - Get Started Contributing: contributing.md
   - How To's: 
     - howtos/index.md
-  - Glossary: resources/glossary.md
+  - Glossary: glossary.md
   - Reviews: 
-    - resources/reviews/index.md
-    - codeacademy: resources/reviews/codeacademy.md
+    - reviews/index.md
+    - codeacademy: reviews/codeacademy.md
 
 
 markdown_extensions:
