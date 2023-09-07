@@ -1,0 +1,34 @@
+site_name: UC Psychology Graduate Student Wiki
+theme:
+  name: material
+  features:
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.sections
+  - navigation.indexes
+  - navigation.top
+  - search.suggest
+  - search.highlight
+  - content.tabs.link
+  - content.code.annotation
+  - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      primary: red
+
+nav: 
+  - Home: 
+    - index.md
+    - Get Started Contributing: contributing.md
+  - How To's: 
+    - howtos/index.md
+  - Glossary: resources/glossary.md
+  - Reviews: 
+    - resources/reviews/index.md
+    - codeacademy: resources/reviews/codeacademy.md
+
+
+markdown_extensions:
+  - toc:
+      permalink: true
