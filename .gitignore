@@ -25,11 +25,6 @@ venv/
 env/
 # Add any other virtual environment directories you use
 
-# MkDocs
-site/
-site_build/
-site_files/
-
 # Miscellaneous
 .DS_Store
 Thumbs.db
