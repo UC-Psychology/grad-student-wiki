@@ -1,4 +1,7 @@
 site_name: UC Psychology Graduate Student Wiki
+site_url: https://uc-psychology.github.io/grad-student-wiki/
+repo_url: https://github.com/UC-Psychology/grad-student-wiki
+site_dir: 'docs'
 theme:
   name: material
   features:
