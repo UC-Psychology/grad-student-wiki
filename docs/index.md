@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+# Welcome to our Wiki!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+You've either stumbled across or directed yourself to the University of Cincinnati Psychology Graduate Student Wiki! Regardless of your journey, we're glad you're here `<3`
 
-## Commands
+This wiki is a collaborative effort by the graduate students in the Department of Psychology at the University of Cincinnati. It is intended to be a resource for current and future graduate students in the department, but also serve anyone with similar interests and learning goals!
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Material for MkDocs
 
-## Project layout
+MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation. Documentation source files are written in Markdown, and configured with a single YAML configuration file.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Themes can be added to MkDocs documentation projects, the theme we are using is called "Material for MkDocs". To learn about the theme for our documentation, head over to the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) documentation site.
+
+For full MkDocs documentation visit [mkdocs.org](https://www.mkdocs.org).
+
+### Questions?
+
+For questions about how to use or contribute to this wiki, reach out to Trent Wirth [via email](mailto:wirthtd@ucmail.uc.edu) or open an issue on our [GitHub repository](https://github.com/UC-Psychology/grad-student-wiki/issues).
