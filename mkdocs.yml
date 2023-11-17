@@ -17,8 +17,22 @@ theme:
   - content.code.copy
   language: en
   palette:
-    - scheme: default
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: red
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
 nav: 
   - Home: 
@@ -26,13 +40,18 @@ nav:
     - Get Started Contributing: contributing.md
   - How To's: 
     - howtos/index.md
-    - git: howtos/git.md
+    - Add a Page to the Wiki: howtos/add_documentation_page.md
+    - Use Git: howtos/git.md
+    - GitHub Co-Pilot: howtos/copilot.md
   - Glossary: glossary.md
   - Reviews: 
     - reviews/index.md
-    - codeacademy: reviews/codeacademy.md
+    - codeacademy: reviews/codecademy.md
 
 
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - toc:
       permalink: true
