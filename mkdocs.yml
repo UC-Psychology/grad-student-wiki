@@ -37,7 +37,7 @@ theme:
 nav: 
   - Home: 
     - index.md
-    - Get Started Contributing: contributing.md
+    - Get Started Contributing: ./contribute.md
   - How To's: 
     - howtos/index.md
     - Add a Page to the Wiki: howtos/add_documentation_page.md

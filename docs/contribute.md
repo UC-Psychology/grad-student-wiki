@@ -14,5 +14,9 @@ To get started, follow these steps:
 
 Now you are ready to start contributing to the MkDocs project on GitHub using GitHub Desktop. Make sure to follow the project's guidelines and best practices for making changes, creating pull requests, and collaborating with other contributors.
 
+!!! Tip
+
+    Want to add a page to the wiki? Check out the [Add a Page to the Wiki](howtos/add_documentation_page.md) tutorial for step-by-step instructions!
+
 Happy contributing!
 
