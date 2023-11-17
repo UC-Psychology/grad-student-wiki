@@ -3,6 +3,13 @@
 <!-- In Markdown, we can use HTML syntax to achieve the same behavior instead of the standard Markdown linking syntax. -->
 
 <!-- By using <a href=... target="_blank"> in Markdown, we provide users with the option to stay on the current documentation page while also allowing them to explore additional sources in a newly opened tab or window. This can help users stay focused on the task at hand while still having the flexibility to investigate related information. -->
+
+<!--
+IMPORTANT
+
+Keep the glossary in alphabetical order!
+
+ -->
 ## git
 
 Git is a distributed version control system that allows multiple people to collaborate on a project. It tracks changes to files and allows users to easily manage different versions of their code. To learn about git, head to the <a href="https://git-scm.com/doc" target="_blank">git documentation</a>.
@@ -26,12 +33,20 @@ GitHub (owned by Microsoft) is a web-based hosting service for version control u
 
 ## IDE
 
-IDE stands for Integrated Development Environment. It is a software application that provides comprehensive facilities to computer programmers for software development. To learn about IDEs, head to the <a href="https://en.wikipedia.org/wiki/Integrated_development_environment" target="_blank">Wikipedia page</a>.
+IDE stands for Integrated Development Environment. It is a software application that provides comprehensive facilities to computer programmers for software development. In other words, IDE's are applications you can use to write and edit code! To learn about IDEs, head to the <a href="https://en.wikipedia.org/wiki/Integrated_development_environment" target="_blank">IDE Wikipedia page</a>.
+
+Examples of popular IDE's are VS Code or JetBrains PyCharm.
+
+## JetBrains
+
+JetBrains is a software development company that makes IDEs for various programming languages such as PyCharm for python, Rider for C#, or DataSpell for data science.
+
+To learn about JetBrains, head to the <a href="https://www.jetbrains.com/" target="_blank">JetBrains website</a>.
 
 ## Markdown
 
 Markdown is a lightweight markup language that is used to format text. It is often used to create documentation for software projects. To learn about Markdown, head to the <a href="https://www.markdownguide.org/" target="_blank">Markdown Guide</a>.
 
-## VS Code
+## VS Code 
 
 VS Code is a free source-code editor made by Microsoft for Windows, Linux and macOS. It is often used to edit Markdown files. To learn about VS Code, head to the <a href="https://code.visualstudio.com/docs" target="_blank">VS Code documentation</a>.
