@@ -59,3 +59,24 @@ For now, that information will live here. As we build the documentation site thi
         1. I teach people how to use these things, if I used research to get better at it, my teaching would improve.
         2. There is an LLM project within FreeMoCap that I'm slowly getting closer to. If you want to look at [SkellyBot](https://github.com/freemocap/skellybot), go for it :) 
 
+### Tech Tools
+Technologies that I'm interested in *using for research*, I.e., this is a list of things I'm interested in digging into *methodologically*. Some I have experience with, others I do not.
+
+- General Programming Languages
+    - [Python](https://www.python.org) - I'd like to use Python for everything :)
+    - [Dart](https://dart.dev) (`C#`-like) - used for Flutter Development
+    - [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) - used for Unity & Lightship development
+- Apps
+    - [Flutter](https://flutter.dev) (full-stack app development framework, by Google)
+- Web
+    - [Django](https://www.djangoproject.com) (Python based web development framework)
+- AR/VR
+    - [Unity](https://unity.com)
+    - [Unreal](https://www.unrealengine.com/en-US/)
+    - [A-Frame](https://aframe.io)
+    - [Lightship](https://lightship.dev/)
+- Motion Capture
+    - [FreeMoCap](https://freemocap.org)
+
+You might notice JavaScript isn't on this list. I recently bounced of JavaScript one too many times /rofl/. I'm not super opposed to it, but I'm more excited to dive into frameworks that use tools that I'm already a bit more familiar with.
+
