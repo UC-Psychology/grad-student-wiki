@@ -47,6 +47,8 @@ nav:
   - Reviews: 
     - reviews/index.md
     - codeacademy: reviews/codecademy.md
+  - Research Topics:
+    - topics/index.md
 
 
 markdown_extensions:
