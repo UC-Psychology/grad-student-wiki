@@ -40,8 +40,10 @@ nav:
     - Get Started Contributing: ./contribute.md
   - How To's: 
     - howtos/index.md
+    - Start a New Project: howtos/start_a_coding_project.md
     - Add a Page to the Wiki: howtos/add_documentation_page.md
     - Use Git: howtos/git.md
+    - Create a Branch: howtos/git_create_a_branch.md
     - GitHub Co-Pilot: howtos/copilot.md
   - Glossary: glossary.md
   - Reviews: 

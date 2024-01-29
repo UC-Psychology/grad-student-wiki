@@ -32,6 +32,8 @@ For now, that information will live here. As we build the documentation site thi
         - Work by Jon Matthis and colleagues demonstrates that the movement of the eye through space generates a signal that could be used by the locomotor system to predict the future state of the body. They refer to this as the `momentum vector`.
     - Can we design an experiment that tests whether perturbing the momentum vector would have an influence on locomotor control, contrary to the prediction made by Warren & Hannon 1990, but in line with the prediction made by the "rich retinotopy view" (as I'm now calling it)?
 
+> the bigger question in #1 is the interest to investigate the relationship between retinal stimulation and full-body motor control (locomotor, or otherwise).
+
 2. How does personal identity map to the spaces in which we inhabit?
     - Generally speaking, I want to work towards developing a theory of Ecological Personal Identity.
         - I've been thinking about this idea since I was an undergraduate; I think I wrote a paper titled something cute like "Me, Myself, and the Living Room Furniture" /grimacing/.
@@ -69,6 +71,7 @@ Technologies that I'm interested in *using for research*, I.e., this is a list o
 - Apps
     - [Flutter](https://flutter.dev) (full-stack app development framework, by Google)
 - Web
+    - [JavaScript](https://www.javascript.com) (programming language, primarily used for web development)
     - [Django](https://www.djangoproject.com) (Python based web development framework)
 - AR/VR
     - [Unity](https://unity.com)
@@ -77,6 +80,4 @@ Technologies that I'm interested in *using for research*, I.e., this is a list o
     - [Lightship](https://lightship.dev/)
 - Motion Capture
     - [FreeMoCap](https://freemocap.org)
-
-You might notice JavaScript isn't on this list. I recently bounced of JavaScript one too many times /rofl/. I'm not super opposed to it, but I'm more excited to dive into frameworks that use tools that I'm already a bit more familiar with.
 

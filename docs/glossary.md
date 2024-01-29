@@ -19,6 +19,10 @@ Git is a distributed version control system that allows multiple people to colla
 
 > Merge is a command that combines two or more branches into one. It is often used to combine changes from one branch into another. To learn about merging, head to the <a href="https://git-scm.com/docs/git-merge" target="_blank">git documentation</a>.
 
+> #### Branch 
+
+> In git, a branch is essentially a separate version of the main repository, allowing you to work on different parts of a project without impacting the main branch. It’s a pointer to a snapshot of your changes. This means that any changes you make in the context of the currently active branch will be kept separate from all other branches.
+
 > #### Pull Request (PR)
 
 > A pull request is a request to merge changes from one branch into another. It is often used to review code before merging it into the main branch. To learn about pull requests, head to the <a href="https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests" target="_blank">GitHub documentation</a>.
