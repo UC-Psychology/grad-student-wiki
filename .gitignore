@@ -32,3 +32,6 @@ Thumbs.db
 # IDE/Editor specific files
 .idea/
 .vscode/
+
+# TDW Added
+.obsidian/
