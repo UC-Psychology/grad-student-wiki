@@ -6,7 +6,10 @@
 ___
 
 ## UC Psychology Graduate Student Resource List
-
+```
+Contributors:
+EG 2024-05-11
+```
 ### All Around Resources
 
 | **RESOURCES**                                                                                                                                                                                                                                                                                                                                                                                                              | **CONTACT/LINK**:                                                                                                                                                                                                                                                                     |
@@ -78,8 +81,3 @@ ___
 | Check out our growing library of resources available to students! | [PGSA Resources Folder Link](https://mailuc-my.sharepoint.com/:f:/r/personal/grayea_mail_uc_edu/Documents/PGSA%20-%20All%20Students%202023-2024/Resources?csf=1&web=1&e=adRoPa) |
 |                                                                   | Note: these lists are not exhaustive.                                                                                                                                           |
 
-
-```
-Contributors:
-EG 2024-05-11
-```
