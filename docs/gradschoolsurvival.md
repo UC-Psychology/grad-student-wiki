@@ -1,4 +1,4 @@
-### ~ ~ ~ coming soon!: _The MQE Master Guide..._ ~ ~ ~
+#### [coming soon!: _The MQE Master Guide...]
 
 ---
 
