@@ -51,6 +51,7 @@ nav:
     - codeacademy: reviews/codecademy.md
   - Research Topics:
     - topics/index.md
+  - Grad School Survival Guide: gradschoolsurvival.md
 
 
 markdown_extensions:

@@ -1,6 +1,6 @@
 # Welcome to our Wiki!
 
-You've either stumbled across or directed yourself to the University of Cincinnati Psychology Graduate Student Wiki! Regardless of your journey, we're glad you're here `<3`
+You've either stumbled across or directed yourself to the University of Cincinnati Psychology Graduate Student Wiki! Regardless of your journey, we're glad you're here `<3` `<3`
 
 This wiki is a collaborative effort by the graduate students in the Department of Psychology at the University of Cincinnati. It is intended to be a resource for current and future graduate students in the department, but also serve anyone with similar interests and learning goals!
 
