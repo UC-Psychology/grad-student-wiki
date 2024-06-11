@@ -1,12 +1,13 @@
-#### [coming soon!: _The MQE Master Guide...]
+### MQEs got you down? 
+<< Check out [MQE Tips](/docs/MQEtips.md) for some easy-peasy cheats! >>
 
----
+___
 
 ## UC Psychology Graduate Student Resource List
 
 ```
 Contributors:
-EG 2024-05-15
+EG 2024-06-11
 ```
 
 ### All Around Resources
