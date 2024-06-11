@@ -5,12 +5,12 @@
 
 [C: Tools for reviewing & writing](#tools-for-reviewing--writing)
 
->DISCLAIMER: This guide was written by a CORA student, and MQE traditions may differ across programs. These statements have not been approved by faculty, however they are based on what has led to a successful MQE proposal.
-
 ```
 Contributors:
 EG 2024-06-11
 ```
+
+>DISCLAIMER: This guide was written by a CORA student, and MQE traditions may differ across programs. These statements have not been approved by faculty, however they are based on what has led to a successful MQE proposal.
 
 ___
 
