@@ -52,8 +52,8 @@ nav:
   - Research Topics:
     - topics/index.md
   - Grad School Survival Guide: gradschoolsurvival.md
-    - MQE Tips: gradschoolsurvival/MQEtips.md
-
+  - MQE Tips: MQEtips.md
+    
 
 markdown_extensions:
   - admonition
