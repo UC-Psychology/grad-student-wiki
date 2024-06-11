@@ -1,8 +1,11 @@
+
 [A: Notes on choosing an MQE topic](#notes-on-choosing-an-mqe-topic)
 
 [B: Steps for creating a stellar outline first draft](#steps-for-creating-a-stellar-outline-first-draft)
 
 [C: Tools for reviewing & writing](#tools-for-reviewing--writing)
+
+>DISCLAIMER: This guide was written by a CORA student, and MQE traditions may differ across programs. These statements have not been approved by faculty, however they are based on what has led to a successful MQE proposal.
 
 ```
 Contributors:
@@ -29,7 +32,7 @@ The truth about a review is that it is a snapshot of a landscape, not an argumen
 |------------------------------------|-------------------------------------|
 | You are writing background to create the rationale for doing certain research. | You are capturing a landscape (which can include several points that could be turned into rationales for future research). |
 | You are expanding on a particular gap in detail. | Your snapshot of a landscape is from an angle which can help you identify several potential gaps that exist. |
-| You are focusing in on a particular issue or problem. | Your topic is broad enough to contain many issues and problems which you can identify. |
+| You are focusing in on a particular issue or problem. | Your topic is broad enough to contain many issues and problems which you can examine. |
 | Your work will speak to a narrow, specific interest. | Your work will speak to a field, sub-field, or body of practitioners. |
 
 ### Note 2: Talk it out, over and over
@@ -48,13 +51,13 @@ ___
 
 ## Section B: Steps for creating a stellar outline first draft
 
-### 1. Identify Existing Papers
+### 1. Identify Existing Papers to Emulate
 
-After determining the type of paper you will be writing for your MQE (e.g., like an Annual Review, or systematic review), visit a journal which publishes those kinds of papers and identify a couple examples of papers you would like to emulate. CORA faculty have recommended modelling after papers in the [Annual Review of Psychology](https://www.annualreviews.org/content/journals/psych).
+After determining the type of paper you will be writing for your MQE (e.g., like an Annual Review, or systematic review), visit a journal which publishes those kinds of papers and identify a couple examples of papers you would like to emulate. CORA faculty have recommended modelling after papers in the [Annual Reviews of Psychology](https://www.annualreviews.org/content/journals/psych).
 
 ### 2. Reverse Outline Model Papers
 
-Use the reverse outline method on the paper(s) that you have chosen as your model, or ideal format. Below are some quick reference guides for reverse outlining--keep in mind they are with regards to your own work, but in this case, apply the method to your model paper(s) to get a feel for how the papers were written. The resulting outline will become a "paint by numbers" model for your own outline:
+Use the reverse outline method on the paper(s) that you have chosen as your model, or ideal format. Below are some quick reference guides for reverse outlining--keep in mind that the following guides are often referring to how to reverse outline your own work, but in this case you will instead apply the method to the model paper(s) you chose. This is how you can get a feel for how the papers were written, and the resulting outline will become a "paint by numbers" model for your own outline:
 
   1. [Harvard Kennedy School Communications Program](https://projects.iq.harvard.edu/files/hks-communications-program/files/new_using_reverse_outlines_new_10_10_18.pdf): Using Reverse Outlines (brief)
   2. [UCLA Undergraduate Writing Center](https://uwc.ucla.edu/wp-content/uploads/2016/01/UWC_handouts_reverseoutling.pdf): Reverse Outlining (brief)
@@ -62,7 +65,7 @@ Use the reverse outline method on the paper(s) that you have chosen as your mode
 
 ### 3. Fill in the Outline with your Topic
 
-Now that you have your "paint by numbers" version of your chosen model paper(s), all you need to do is fill it in with background, aims, and methods relevant to your own MQE topic. You can leave the results and discussion sections empty, unless you want to outline the general structure or sections to be included there.
+Now that you have your "paint by numbers" version of your chosen model paper(s), all you need to do is replace details in the background, aims, and methods with the details that are relevant to your own MQE topic. You can leave the results and discussion sections empty, unless you want to outline the general structure or sections to be included there.
 
 **This outline can be a very strong first draft of your MQE outline which your advisor can provide additional feedback on for refinement.**
 
@@ -75,10 +78,10 @@ Below are tools I (EG) have found very handy for the MQE process, plus a few ext
   1. [Zotero](https://www.zotero.org/): This is a free, open-source literature management software (similar to EndNote), which also allows you to add tags and notes, and annotate articles. I use the tags to help sort through articles, keep notes for reference, and highlight PDFs for areas I want to be able to find easily. There are also some handy plugins available.
       - Its free,  and you get 300mb of free cloud storage to sync across devices. You can also upgrade to 2 GB cloud storage for $20/year. (_you can use it for free without upgrading storage, it'll just limit what can be synced in the cloud_).
   2. [Scrivener](https://www.literatureandlatte.com/scrivener/features?os=Windows): This is a writing software that allows you to focus on writing one section at a time, or compile for editing altogether. This is handy when you are skipping around sections of a very long paper.
-      - You can also use it for free for 30 non-consecutive days. After that there is a one-time eductaional fee of $50.99 for a perpetual license.
-  3. [CADIMA](https://www.cadima.info/): This is a free web tool for systematic reviews (similar to Covidence). It may be most useful for folks focused on more quantitative findings accross papers.
+      - You can also use it for free for 30 non-consecutive days. After that there is a one-time educational fee of $50.99 for a perpetual license.
+  3. [CADIMA](https://www.cadima.info/): This is a free web tool for systematic reviews (similar to Covidence). It may be most useful for folks focused on more quantitative findings across papers.
       - Free!
   4. [Obsidian](https://obsidian.md/): For those inclined to keep notes in Markdown, I LOVE this tool because I can keep all my notes in one place, across several vaults. I can also tag my notes and keep relevant ones linked together. They also have some really sweet community plugins to fancify your experience.
-      - It's free, but if you want, you can pay the exhorbitant $57.60/year fee (billed annually with educational discount) to sync across all your devices.
+      - It's free, but if you want, you can pay the exorbitant $57.60/year fee (billed annually with educational discount) to sync across all your devices.
   5. **Qualitative Analysis software**: Hottip!! If you have access to a good qualitative analysis software like **MAXQDA**, you can use it for literature reviews! 
       - Just like analysing a transcript, you can analyse articles with highlighting, tagging, and referring to sections together in a way that makes synthesis of the articles much easier, particularly if you are doing a more content-analysis-type review.
