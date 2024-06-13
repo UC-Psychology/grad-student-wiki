@@ -1,6 +1,6 @@
 ### MQEs got you down?
 
-<< Check out [MQE Tips](MQEtips.md) for some easy-peasy cheats! >>
+<< Check out [MQE Tips](MQEtips.md) that could save time and distress! >>
 
 ___
 
