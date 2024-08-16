@@ -10,6 +10,7 @@
 ```
 Contributors:
 EG 2024-06-11
+TDW 2024-08-15
 ```
 
 >DISCLAIMER: This guide was written by a CORA student, and MQE traditions may differ across programs. These statements have not been vetted by faculty, however they are based on what has led to a successful MQE proposal. This guide is not meant to replace or contradict the support and feedback you will obtain from your advisor and committees. For any questions regarding the MQE, its rules, and its possible formats, you can reach out to your program director (Paula Silva or Kristen Jastrowski-Mano).
@@ -44,11 +45,10 @@ The truth about a review is that it is a snapshot of a landscape, not an argumen
 
 - Because choosing an MQE topic can lack many clear guidelines or boundaries, it can be difficult to hone in on one topic. Make sure you are talking about your interests to multiple people over and over. Talking it through can help you refine your thinking and identify the things which you are truely passionate about.
     - A talking buddy can be a family member or friend, or anyone who will listen (a dog? a cat? a fish?). I've even "talked" to ChatGPT before.
-    - While the MQE - *after your outline is approved by your committee* - is a "test" which you cannot receive feedback on as you complete it, there is nothing to bar you from talking about what you are learning and thinking with others.
 
 ### Note 3: AI can be your friend
 
-- You can use [Elicit AI](https://elicit.com/) to identify research that exists, and even ask it to summarise concepts based on a selection of articles!
+- You can use [Elicit AI](https://elicit.com/) to identify research that exists.
 - You can also use [ChatGPT](https://openai.com/chatgpt/) as your "Talk it out" buddy, and ask if they know of any researchers who have looked at things similarly to the way you would like to.
 - Students also have access to the organizational [Copilot](https://copilot.microsoft.com/) through UC, which is like ChatGPT except it can search the live web via Bing.
     - If you login with your UC email, you can access a protected version which won't save any of your search data (it's reliability is questionnable, so always double check it's sources).
